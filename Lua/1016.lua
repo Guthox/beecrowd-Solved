@@ -1,0 +1,1 @@
+print(string.format("%d minutos", io.read("*n") * 2))

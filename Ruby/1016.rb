@@ -1,0 +1,1 @@
+puts ("%d minutos" % (gets.chomp.to_i * 2))
