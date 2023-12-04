@@ -1,0 +1,5 @@
+cod, num, preco = input().split()
+total = int(num) * float(preco)
+cod, num, preco = input().split()
+total += int(num) * float(preco)
+print(f"VALOR A PAGAR: R$ {total:.2f}")
